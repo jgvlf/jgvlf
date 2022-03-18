@@ -1,4 +1,5 @@
-## Olá  desenvolvedores, me chamo João Gabriel Venceslau Lacerda Fernandes\ne
+## Olá  desenvolvedores, sejam bem-vindos ao meu GitHub
+### Me chamo João Gabriel Venceslau Lacerda Fernandes
 
 <!--
 **TheLordGrim09/TheLordGrim09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
