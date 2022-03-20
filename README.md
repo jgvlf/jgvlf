@@ -4,7 +4,7 @@
 
 
 - 💼 Atualmente trabalho na Robert Bosch GmbH como aprendiz de desenvolvimento junto com o SENAI;
-- 📚 Atualmente faço faculdade de Tecnólogo em Mecatrônica Industrial;
+- 📚 Faço faculdade de Tecnólogo em Mecatrônica Industrial;
 
 ### 💖 Hobs: 
 - 👨🏼‍💻 Programar; 
