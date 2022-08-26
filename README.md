@@ -1,10 +1,13 @@
 ## Olá  desenvolvedores(as) 👋🏼, sejam bem-vindos ao meu GitHub
 ### Me chamo João Gabriel Venceslau Lacerda Fernandes
 
+<img align="right" width=400 height=300 src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
-- 💼 Atualmente trabalho na Robert Bosch GmbH como aprendiz de desenvolvimento junto com o SENAI;
-- 📚 Faço faculdade de Tecnólogo em Mecatrônica Industrial;  
-<div style="margin-left: 500px; width:300px"><img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" width=400 height=300></div>
+<div dsplay="inline-block">
+<li align="left">💼 Atualmente trabalho na Robert Bosch GmbH como aprendiz de desenvolvimento junto com o SENAI;</li>
+<li align="left">📚 Faço faculdade de Tecnólogo em Mecatrônica Industrial;</li>
+</div>
+
 
 ### 💖 Hobs: 
 - 👨🏼‍💻 Programar; 
@@ -42,4 +45,5 @@
 <a href="https://github.com/joaogabrielvlf">
 <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogabrielvlf&layout=compact&langs_count=7&theme=dracula"/>        
 <img height="130em" src="https://github-readme-stats.vercel.app/api?username=joaogabrielvlf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+![Snake animation](https://github.com/joaogabrielvlf/joaogabrielvlf/blob/output/github-contribution-grid-snake.svg)
 </div>
