@@ -2,9 +2,9 @@
 ### Me chamo João Gabriel Venceslau Lacerda Fernandes
 
 
-
 - 💼 Atualmente trabalho na Robert Bosch GmbH como aprendiz de desenvolvimento junto com o SENAI;
-- 📚 Faço faculdade de Tecnólogo em Mecatrônica Industrial;
+- 📚 Faço faculdade de Tecnólogo em Mecatrônica Industrial;  
+<div style="margin-left: 500px; width:300px"><img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" width=400 height=300></div>
 
 ### 💖 Hobs: 
 - 👨🏼‍💻 Programar; 
