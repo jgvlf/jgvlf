@@ -51,4 +51,13 @@
 </div>
   
 
-![Snake animation](https://github.com/jgvlf/jgvlf/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+	<img
+		alt="Snake animation"
+		src="https://github.com/jgvlf/jgvlf/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only"
+	/>
+	<img
+		alt="Snake animation"
+		src="https://github.com/jgvlf/jgvlf/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"
+	/>
+</div>
