@@ -7,7 +7,7 @@ executing==2.2.0
 github-readme-terminal==0.0.3
 icecream==2.1.4
 idna==3.10
-pillow==10.4.0
+pillow==13.0.0
 pygments==2.19.1
 python-dateutil==2.9.0.post0
 python-dotenv==1.1.0
