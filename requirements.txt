@@ -15,4 +15,4 @@ requests==2.32.4
 six==1.17.0
 tomli==2.2.1
 tzdata==2025.2
-urllib3==2.4.0
+urllib3==2.8.0
