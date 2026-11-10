@@ -6,12 +6,12 @@ dotenv==0.9.9
 executing==2.2.0
 github-readme-terminal==0.0.3
 icecream==2.1.4
-idna==3.10
+idna==3.15
 pillow==13.0.0
 pygments==2.19.1
 python-dateutil==2.9.0.post0
-python-dotenv==1.1.0
 requests==2.33.0
+python-dotenv==1.2.2
 six==1.17.0
 tomli==2.2.1
 tzdata==2025.2
